@@ -1,1 +1,1 @@
-This if Fadia's git project
+This is Fadia's git project
